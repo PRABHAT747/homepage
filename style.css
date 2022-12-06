@@ -1,0 +1,100 @@
+body{
+    background:linear-gradient(skyblue,pink);
+}
+.heaer{
+  
+    text-align: center;
+    font-weight: bold;
+    height: 200px;
+   
+    background-image: url("gkp2030.jpg");
+    padding: 2px 2px 2px 2px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+   
+}
+
+.upper-sec{
+    background-color: beige;
+    text-align: center;
+    color:green;
+}
+.secon{
+    padding: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color:green;
+}
+.pp{
+    
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border: 6px solid darkcyan;
+    margin-bottom: 10px;
+
+}
+.card{
+    margin:0 auto;  
+    width: 400px;
+    border: 1px dotted black;
+    height: 250px;
+    border-bottom: 6px solid blue;
+    padding-top: 10px;
+    background-color:#ddebf8;
+    margin-top:10px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+.mydetails{
+    text-align:center;
+    list-style: none;
+}
+.myimage{
+ 
+    width: 150px;
+    height: 240px;
+    
+    }
+
+.innercard{
+       padding-left: 10px ;
+       padding-right: 10px;
+       padding-top:2px;
+       padding-bottom: 20px;
+       display: flex;
+       justify-content:space-between;
+       gap: 5%;
+    }
+  
+.commonhea{
+        font-weight: bold;
+
+    }
+.intro{
+        text-align: justify;
+        color: green;
+    }
+#centre{
+    text-align:center; 
+}
+#gui{
+    text-align:center; 
+}
+.welcome{
+    color:#ddebf8;
+    text-align: center;
+    background: darkcyan;
+    width: 500px;
+    padding: 5px 10px; 
+}
+.f1{
+    background: skyblue;
+    border-radius: 5%;
+}
+#first{
+    margin-bottom: 0px;
+}
